@@ -1,4 +1,4 @@
-<h3 align="center">A Beginner Programmer currently enrolled in SSAFY</h3>
+<h3 align="center">A Beginner level Programmer currently enrolled in SSAFY</h3>
 
 - 🌱 I’m currently learning **Python**
 
