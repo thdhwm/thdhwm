@@ -1,6 +1,6 @@
 <h3 align="center">A Beginner level Programmer currently enrolled in SSAFY</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
 </p>
 
